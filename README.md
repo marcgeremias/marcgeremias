@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Marc Geremias Serra. I am from Barcelona (Spain), and currently doing my third year Computer Engineering at [La Salle Campus Barcelona](https://www.salleurl.edu). I am a tech enthusiast & I love to explore and learn about new things day after day.
+I am Marc Geremias Serra, from Blanes (Spain) and currently doing my third year Computer Engineering at [La Salle Campus Barcelona](https://www.salleurl.edu). As a tech enthusiast, I am always eager to learn about new and exciting developments in the field. I have a love for exploring and discovering new things, and I enjoy being self-taught.
 
 You can reach me here:
 
