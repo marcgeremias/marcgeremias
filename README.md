@@ -5,6 +5,4 @@ I am Marc Geremias Serra, from Blanes (Spain) and currently doing my third year 
 You can reach me here:
 
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcgeremias/)
-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcgeremiasserra@gmail.com)
-- [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/marcgeremias)
-  
+- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcgeremiasserra@gmail.com) 
